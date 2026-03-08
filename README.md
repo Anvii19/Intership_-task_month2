@@ -12,3 +12,19 @@ Notifications
 REST API
 Responsive frontend
 Deploy online
+
+Install Required Tools
+Install these first.
+Install Python
+Download:
+👉 https://python.org
+
+Install Django:
+pip install django
+1.Install Django
+REST Framework
+2.pip install 
+djangorestframework
+3.Install other libraries
+pip install pillow
+pip install channels
